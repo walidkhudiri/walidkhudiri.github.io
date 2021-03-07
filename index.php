@@ -1,4 +1,3 @@
-<?php if(isset($_GET['menaitech'])){ ?>
 	<!DOCTYPE html>
 	<html lang="en"> 
 	
@@ -405,8 +404,4 @@
 	
 	</body>
 	</html> 
-	
-	<?php }else{
-	echo	"Sorry , you Are Not Authorized";
-	}?>
 	
